@@ -10,7 +10,7 @@
 
     <header class="banner">
         <h1>Welcome to Our Website</h1>
-        <p>Your ultimate destination for great content.</p>
+        <p>This is a test for auto deployment</p>
         <a href="#" class="cta-button">Learn More</a>
     </header>
 

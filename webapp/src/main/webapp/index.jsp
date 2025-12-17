@@ -10,7 +10,7 @@
 
     <header class="banner">
         <h1>Welcome to Our Website</h1>
-        <p>This is a test for auto deployment</p>
+        <p>containerized deployment through jenkins pipeline automations</p>
         <a href="#" class="cta-button">Learn More</a>
     </header>
 
